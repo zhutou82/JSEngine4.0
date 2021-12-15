@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "Hellow JSEngine 4.0" << std::endl;
+	std::cout << "Hello JSEngine 4.0" << std::endl;
 	return 0;
 }
