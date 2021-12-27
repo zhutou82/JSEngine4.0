@@ -1,7 +1,7 @@
-#include <iostream>
+#include <cstdio>
 
 int main()
 {
-	std::cout << "Hellow JSEngine 4.0" << std::endl;
-	return 0;
+    printf("Hello JSEngine4.0\n");
+    return 0;
 }

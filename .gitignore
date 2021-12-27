@@ -1,10 +1,5 @@
 #bin folder
-bin/*
-bin-int/*
+JSEngine4.0/bin/*
 
 #visual solution generated file
-*.sln
-.vs/*
-JSEngine4.0/*.vcxproj
-JSEngine4.0/*.vcxproj.user
-JSEngine4.0/*.vcxproj.filters
+/projects
